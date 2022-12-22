@@ -1,5 +1,7 @@
 ﻿# Beauty Et Al (Backend Repo)
  
+ ![GitHub last commit](https://img.shields.io/github/last-commit/jackytam2020/beauty-et-al-api)
+ 
  ### Description
 
 This is the backend repo for [Beauty et al](https://github.com/jackytam2020/beauty-et-al). After starting up this repo, you should be able to test out the checkout session 
