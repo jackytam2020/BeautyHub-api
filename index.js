@@ -15,6 +15,10 @@ app.use(
   })
 );
 
+app.get('/', (req, res) => {
+  res.status(200).json({ message: 'pinged' });
+});
+
 //post endpoint to open Stripe Checkout Session
 app.post('/checkout', async (req, res) => {
   const items = req.body.items;
